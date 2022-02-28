@@ -8,13 +8,18 @@
 
 
 <url>
-  <loc>https://sheng-qiang.github.io/</loc>
-  <lastmod>2021-02-05T15:35:00+00:00</lastmod>
+  <loc>https://c-box.github.io/</loc>
+  <lastmod>2022-02-28T02:01:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://sheng-qiang.github.io/data/CV_QiangSheng.pdf</loc>
-  <lastmod>2021-02-05T15:35:00+00:00</lastmod>
+  <loc>https://c-box.github.io/data/LANKA_slides.pdf</loc>
+  <lastmod>2022-02-28T02:01:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://c-box.github.io/data/LANKA_poster.pdf</loc>
+  <lastmod>2022-02-28T02:01:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
